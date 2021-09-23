@@ -1,0 +1,15 @@
+.wrapper{
+display: flex;
+}
+.it1{
+height: 300px;
+width: 60px;
+background-color: black;
+margin: 5px;
+}
+.it2{
+    height: 300px;
+    width: 150px;
+    background-color: black;
+    margin: 5px;
+}

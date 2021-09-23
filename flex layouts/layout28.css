@@ -1,0 +1,41 @@
+.container{
+    height: 200px;
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.item1{
+    
+    background-color: black;
+     height: 40px;
+    width: 200px;
+    margin: 5px;
+}
+.item2{
+    
+    background-color: black;
+    height: 150px;
+    width: 40px;
+    margin: 5px;
+    flex-direction: row;
+}
+.item3{
+    background-color: black;
+    height: 150px;
+    width: 40px;
+    margin: 5px;
+}
+.item4{
+    background-color: black;
+    height: 150px;
+    width: 100px;
+    margin: 5px;
+    
+}
+.item5{
+    background-color: black;
+     height: 40px;
+    width: 200px;
+    margin: 5px;
+}

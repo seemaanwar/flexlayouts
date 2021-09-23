@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+   
+}
+.header1{
+    height: 70px;
+    width: 180px;
+    margin: 6px;
+    background-color: black;
+}
+.header2{
+    height: 70px;
+    width: 70px;
+    margin: 6px;
+    background-color: black;
+}
+.container2{
+display: inline-flex;
+}
+.col1{
+height: 300px;
+width: 80px;
+margin: 6px;
+background-color: black; 
+}
+.col2{
+    height: 300px;
+    width: 80px;
+    margin: 6px;
+    background-color: black; 
+}
+.col3{
+    height: 300px;
+    width: 80px;
+    margin: 6px;
+    background-color: black; 
+}

@@ -1,0 +1,37 @@
+.wrapper{
+    display: flex;
+    height: 200px;
+    width: 250px;
+    flex-wrap: wrap;
+    
+}
+.box1{
+height: 150px;
+width: 50px;
+margin: 5px;
+background-color: black;
+}
+.box2{
+    height: 150px;
+width: 50px;
+margin: 5px;
+background-color: black;
+}
+.box3{
+    height: 150px;
+width: 50px;
+margin: 5px;
+background-color: black;
+}
+.box4{
+    height: 100px;
+width: 80px;
+margin: 5px;
+background-color: black;
+}
+.box5{
+    height: 100px;
+width: 80px;
+margin: 5px;
+background-color: black;
+}

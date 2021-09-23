@@ -1,0 +1,32 @@
+.mainbox{
+    display: inline;
+}
+.header{
+    height: 50px;
+    width: 250px;
+    margin: 10px;
+    background-color: black;
+}
+.container2{
+    display: flex;
+
+}
+.box1{
+    height: 200px;
+    width: 50px;
+    margin: 10px;
+    background-color: black;
+    align-items: flex-end;
+}
+.box2{
+    height: 200px;
+    width: 180px;
+    margin: 10px;
+    background-color: black;
+}
+.footer{
+    height: 50px;
+    width: 250px;
+    margin: 10px;
+    background-color: black;
+}

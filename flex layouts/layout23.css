@@ -1,0 +1,43 @@
+#wrapper{
+    display: inline-flex;
+}
+#comtainer{
+    display: inline-flex;
+    height: 300px;
+    
+}
+#subitem{
+    display: flex;
+}
+#col1{
+    height: 210px;
+    width: 40px;
+    margin: 5px;
+    background-color: black;
+}
+#header{
+    height: 50px;
+    width: 150px;
+    margin: 3px;
+    background-color: black;
+}
+#col2{
+    height: 100px;
+    width: 70px;
+    margin: 3px;
+    background-color: black;
+}
+#col3{
+    height: 100px;
+    width: 70px;
+    margin: 3px;
+    
+    background-color: black;
+}
+#footer{
+    height: 50px;
+    width: 150px;
+    margin: 3px;
+    
+    background-color: black;
+}

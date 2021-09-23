@@ -1,0 +1,38 @@
+ #container2{
+        display: inline;
+    }
+ #item1{
+height: 50px;
+width: 110px;
+margin: 5px;
+background-color: black;
+ }
+ #container{
+     display: flex;
+ }
+    
+    #item2{
+        height: 210px;
+        width: 50px;
+        margin:5px;
+        position: relative;
+        bottom: 60px;
+        
+        background-color: black;
+    }
+    #subitem{
+        display: inline-flex;
+    }
+
+#item3{
+    height: 150px;
+    width: 50px;
+    margin: 5px;
+    background-color: black;
+}
+#item4{
+    height: 150px;
+    width: 50px;
+    background-color: black;
+    margin: 5px;
+}

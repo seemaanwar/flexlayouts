@@ -1,0 +1,42 @@
+#container{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    flex-wrap: wrap;
+}
+#box1{
+    height: 70px;
+    width: 270px;
+    margin: 5px;
+    background-color: black;
+}
+#box2{
+    height: 200px;
+    width: 60px;
+    margin: 5px;
+    background-color: black;
+}
+#box3{
+    height: 200px;
+    width: 60px;
+    margin: 5px;
+    background-color: black;
+}
+#box4{
+    height: 200px;
+    width: 60px;
+    margin: 5px;
+    background-color: black;
+}
+#box5{
+    height: 200px;
+    width: 60px;
+    margin: 5px;
+    background-color: black;
+}
+#box6{
+    height: 70px;
+    width: 270px;
+    margin: 5px;
+    background-color: black;
+}
